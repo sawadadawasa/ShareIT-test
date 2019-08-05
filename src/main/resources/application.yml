@@ -1,0 +1,14 @@
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/views/
+      suffix: .jsp
+  datasource:
+    driverClassName: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/shareit
+    username: postgres
+    password: postgres
+
+server:
+  servlet:
+    context-path: /shareIT-test
