@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ShareItTest2Application {
 
-	public static void main(String[] args) {
+	sawada public static void main(String[] args) {
 		SpringApplication.run(ShareItTest2Application.class, args);
 	}
 
