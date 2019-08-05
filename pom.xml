@@ -12,6 +12,7 @@
 	<artifactId>Share-IT-test-2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Share-IT-test-2</name>
+	<packaging>war</packaging>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
