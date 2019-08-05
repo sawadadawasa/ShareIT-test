@@ -8,7 +8,7 @@ pipeline {
         stage('チェックアウト') {
             steps {
                 // Gitリポジトリの設定
-                git url: 'https://github.com/mimaken3/Share-IT.git'
+                git url: 'https://github.com/mimaken3/ShareIT-test.git'
             }
         }
         stage('Mavenビルド') {
